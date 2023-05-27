@@ -1,0 +1,29 @@
+.todo-item {
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .todo-item h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .todo-item p {
+    margin-bottom: 5px;
+  }
+  
+  .todo-item ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 10px;
+  }
+  
+  .todo-item li {
+    margin-bottom: 5px;
+  }
+  
+  .todo-item li.done {
+    text-decoration: line-through;
+  }
+  
