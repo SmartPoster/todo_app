@@ -13,7 +13,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 
 1. Clonez le dépôt GitHub :
 
-git clone <URL_DU_DÉPÔT>
+git clone https://github.com/SmartPoster/todo_app.git
 
 
 2. Accédez au répertoire du serveur :
